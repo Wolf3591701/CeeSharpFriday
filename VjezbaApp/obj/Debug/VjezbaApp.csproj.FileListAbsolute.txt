@@ -13,3 +13,13 @@ C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\obj\Debug\VjezbaApp.csproj.
 C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\obj\Debug\VjezbaApp.csproj.CopyComplete
 C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\obj\Debug\VjezbaApp.exe
 C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\obj\Debug\VjezbaApp.pdb
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Buffers.dll
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Memory.dll
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Buffers.xml
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Memory.xml
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HPofDada\Documents\CeeSharpFriday\VjezbaApp\bin\Debug\System.Text.Encoding.CodePages.xml
